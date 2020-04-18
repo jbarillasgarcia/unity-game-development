@@ -30,4 +30,6 @@ Stores vector components (x, y, z) of a position in a three dimensions coordinat
 ## Console Output
 You can output text to console using the static method Log(...) from Debug class as follows:
 
-
+```sh
+Debug.Log("Put your messsage here!!!");
+```
