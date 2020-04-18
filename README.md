@@ -8,7 +8,7 @@ Introduction to game development with Unity and C#.
 - Oculus Go 64 GB
 - Xbox Elite Wireless Controller Series 2
 
-## Classes for Beginners
+## Basic Classes
 - MonoBehaviour
 - Vector3
 
