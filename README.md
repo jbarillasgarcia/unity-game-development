@@ -9,7 +9,14 @@ Introduction to game development with Unity and C#.
 - Xbox Elite Wireless Controller Series 2
 
 ## Classes for Beginners
-- Vector3D
+- MonoBehaviour
+- Vector3
+
+### Class MonoBehaviour
+This class must be derived in all Unity scripts. It allows scripts to implement basic functions like awake, start, update or response to input events. 
+
+### Class Vector3
+Stores vector components (x, y, z) of a position in a three dimensions coordinate system.
 
 ## MonoBehaviour Class Members
 - Awake method
