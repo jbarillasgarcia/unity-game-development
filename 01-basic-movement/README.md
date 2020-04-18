@@ -1,6 +1,6 @@
 # Basic Movement
 
-In this example a object is moved from one position to another using a script.
+In this example an object is moved from one position to another using a script.
 
 ## Environment Configuration
 - Microsoft Visual Studio Community 2019 16.5.3
