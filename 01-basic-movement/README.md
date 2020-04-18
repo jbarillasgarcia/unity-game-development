@@ -8,3 +8,4 @@ In this example an object is moved from one position to another using a script.
 
 ## Game Views
 ![](../Images/01-basic-movement.jpg)
+![](../Images/01-basic-movement-2.jpg)
