@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\PlayerXZController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Git/jbarillasgarcia/unity-game-development/01-basic-movement/01 Basic Development/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
