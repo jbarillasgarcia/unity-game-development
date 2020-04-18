@@ -26,3 +26,8 @@ Stores vector components (x, y, z) of a position in a three dimensions coordinat
 - LateUpdate method
 - OnDisable method
 - OnEnable method
+
+## Console Output
+You can output text to console using the static method Log(...) from Debug class as follows:
+
+
