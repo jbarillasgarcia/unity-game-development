@@ -1,5 +1,4 @@
 # Unity Game Development
-
 Introduction to game development with Unity and C#.
 
 ## Environment Configuration
